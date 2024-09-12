@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.3
+certifi==2024.8.30
+charset-normalizer==3.3.2
+filelock==3.16.0
+idna==3.8
+lxml==5.3.0
+ntscraper==0.3.17
+PySocks==1.7.1
+requests==2.32.3
+snscrape==0.7.0.20230622
+soupsieve==2.6
+tqdm==4.66.5
+urllib3==2.2.3
